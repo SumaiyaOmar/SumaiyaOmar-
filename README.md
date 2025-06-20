@@ -2,7 +2,7 @@
 
 I'm a Computer Science student at AlMaarefa University (GPA: 3.72), passionate about solving real-world problems through software and design.
 
-## What I'm Working On
+## What I Worked On
 - Hotel Network Design – Designed a full network system for a hotel, including IP structure, routing, and data flow using vlan - completed with my teammate as a university project.
 
 ## Skills
